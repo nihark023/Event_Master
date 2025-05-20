@@ -1,6 +1,6 @@
 # TaskTicker - Flutter Event Management App
 
-![TaskTicker Logo](https://example.com/logo.png) *(Add your app logo here)*
+
 
 ## Overview
 
@@ -15,9 +15,7 @@ TaskTicker is a sleek, intuitive event management application built with Flutter
 - **Offline Access**: All data stored locally for use without internet
 - **Responsive UI**: Smooth user experience across different devices
 
-## Screenshots
 
-*(Add your app screenshots here)*
 
 <div style="display: flex; justify-content: space-between;">
   <img src="screenshots/home_screen.png" width="30%" alt="Home Screen"/>
